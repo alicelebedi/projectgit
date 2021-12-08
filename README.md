@@ -1,2 +1,2 @@
 # projectgit
-beautiful
+beautiful project
